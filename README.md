@@ -3,7 +3,7 @@
 
 ##2.ping命令格式
 
-        --ip baidu.com --timeout 2 --t 10 --delay 600
+        --ip baidu.com --timeout 2 --t 10 --interval 600
         
         --ip +  ip或域名             需要ping的目标
         
